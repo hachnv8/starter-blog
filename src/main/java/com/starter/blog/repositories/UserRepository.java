@@ -1,6 +1,8 @@
-package com.starter.blog.user;
+package com.starter.blog.repositories;
 
 import java.util.Optional;
+
+import com.starter.blog.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Integer> {
