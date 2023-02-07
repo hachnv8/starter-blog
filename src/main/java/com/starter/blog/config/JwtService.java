@@ -1,4 +1,4 @@
-package com.starter_blog.security.config;
+package com.starter.blog.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

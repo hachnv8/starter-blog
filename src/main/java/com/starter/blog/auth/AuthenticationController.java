@@ -1,4 +1,4 @@
-package com.starter_blog.security.auth;
+package com.starter.blog.auth;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.starter_blog.security.user;
+package com.starter.blog.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

@@ -1,6 +1,6 @@
-package com.starter_blog.security.config;
+package com.starter.blog.config;
 
-import com.starter_blog.security.user.UserRepository;
+import com.starter.blog.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,9 +1,9 @@
-package com.starter_blog.security.auth;
+package com.starter.blog.auth;
 
-import com.starter_blog.security.config.JwtService;
-import com.starter_blog.security.user.User;
-import com.starter_blog.security.user.UserRepository;
-import com.starter_blog.security.user.Role;
+import com.starter.blog.config.JwtService;
+import com.starter.blog.user.UserRepository;
+import com.starter.blog.user.User;
+import com.starter.blog.user.Role;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

@@ -1,4 +1,4 @@
-package com.starter_blog.security.auth;
+package com.starter.blog.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,8 +9,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class AuthRequest {
+public class AuthResponse {
 
-  private String email;
-  String password;
+  private String token;
 }

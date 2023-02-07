@@ -1,4 +1,4 @@
-package com.starter_blog.security.user;
+package com.starter.blog.user;
 
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
